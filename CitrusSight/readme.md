@@ -1,8 +1,12 @@
 # Citrus Sight 
-![ ](https://imgur.com/uIxU9TR)
+![ ](https://github.com/danielw0988/RoboLancers-Hardware/blob/c23b1fc09bd763468034a39b9f7218c641e5389c/CitrusSight/CitrusSight_Black_2-3Ratio_Fit_3_20_Render.jpg)
+
+
+
 Citrus Sight is an open source vision system comparable to the new Limelight 3g. The stock version features: 
 
- - Additional ports and computational power for 2 USB Cameras
+ - Additional ports and computational power for
+ - 2 USB Cameras
  - Built in neural network accelerator
  - OV9281 sensor with 120FPS capture at 1280x800
  - FOV of 70°
