@@ -31,12 +31,3 @@ All quanties are minimum so more of each is recommended. For the *STOCK* Citrus 
 | 1 | VRM Heat Sink | [8.5x6.35x4.8mm](https://www.digikey.com/en/products/detail/assmann-wsw-components/V5618A/3511413) |Transistor Cooling|
 | 1 | Thermal Pad | [20x20mm](https://www.amazon.com/SIXQJZML-15x15x1mm-Silicone-Conductive-Northbridge/dp/B074K4CKG1/ref=sr_1_10?keywords=thermal%2Bpad&qid=1697396814&sr=8-10&th=1) |Orange Pi Chip Cooling|
 | 1 | Thermal Glue | [Silicon Based Thermal Glue](https://www.amazon.com/GENNEL-Conductive-Silicone-Adhesive-Compound/dp/B072MSXHJD) |VRM Transistor Cooling|
-
-## Tools/Supplies
-
-| QTY | Item  |  Notes & Link | Purpose |
-|--|--|--|--|
-| 1 |Soldering iron w/ scrub or sponge| [Temp of 830](https://www.amazon.com/Hakko-FX888D-23BY-Digital-Soldering-Station/dp/B00ANZRT4M/ref=sr_1_1?crid=18I0JIT2Q5PL7&dib=eyJ2IjoiMSJ9.K49_SYoiZJ7tNoSiuuHt06Ps5tWebxG4EDAaVK2AgMUh1FQ-RZcT-Q87iT_lIk96X4i3FOBuKk1dyRXTbk4LTjv1ZwSkWG02sLzvMnJ5sAhp3vO0N96JZJYhKAZNHlNlnmoxlYSBCsgL4Y8sKV0fxEbwqNJoaqN9jfNt8ECk3neM1eZ1zXubTY31XHzx_fDb82MM2lKjYqG_xR7Wcf_Utsl_Jrl2WP3cOEB2RffkjtzmxoHQNliZXZabSO02bALXTQoLgq2u6gYNe5O8cezPyVf2sI7Z_S2zHJiNtzu29Aw.l5raxWf-FPomm4hszOd1FO5w0yMIYWQi6CYXPI2ZfQQ&dib_tag=se&keywords=solder+iron+hakko&qid=1711034554&sprefix=solder+iron+hakko%2Caps%2C122&sr=8-1) |Soldering |
-|1| Solder| [Lead Free, Between 0.5mm 1.2mm diameter](https://www.amazon.com/UGREEN-Charger-Compatible-Samsung-Nintendo/dp/B07PFHB3R4/ref=sr_1_4?keywords=usb%2Bc%2Bto%2Busb%2Ba%2Bright%2Bangle&qid=1707699098&s=electronics&sr=1-4&th=1) |Soldering|
-|1| Solder Flux| [Solid Soldering Rosin](https://www.amazon.com/SRA-Soldering-Electronics-Lead-Free-Electrical/dp/B008ZIV85A/ref=sr_1_1_sspa?keywords=flux&qid=1707267438&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) |Improving Solder Flow & removal|
-|1| Solder Wick| [Braided Copper](https://www.amazon.com/dp/B0962XQ4HH/ref=twister_B09KS6Z93N?_encoding=UTF8&psc=1) |Removing Solder|
