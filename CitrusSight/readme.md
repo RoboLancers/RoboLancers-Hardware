@@ -1,8 +1,8 @@
-# Citrus Sight 
+# CountDown
 ![image](https://github.com/danielw0988/RoboLancers-Hardware/assets/121208950/4986f92d-5b55-4de6-8f01-2310c4bc7197)
 
 
-# Citrus Sight is an open source vision system comparable to the new Limelight 3g. The stock version features: 
+# CountDown is an open source vision system that's as easy as 3 2 1. The stock version features: 
 
  - Additional ports and computational power for
  - 2 USB Cameras
