@@ -11,4 +11,4 @@
  - Encoder enclosure flush with casing, protecting electronics from wayward robots
  
 
-Inspired from [Team 3984's MK4i Swerve Pod case with integrated Spark Max mounts](https://grabcad.com/library/mk4i-swerve-drive-cover-with-spark-mounts-1). 
+Inspired from [Team 3984's MK4i Swerve Drive Cover with Spark Mounts](https://grabcad.com/library/mk4i-swerve-drive-cover-with-spark-mounts-1). 
