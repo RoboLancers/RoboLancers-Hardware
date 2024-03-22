@@ -1,5 +1,5 @@
-# Citrus Sight Bill of Materials
-All quanties are minimum so more of each is recommended. For the *STOCK* Citrus Sight camera. 
+# CountDown Bill of Materials
+All quanties are minimum so more of each is recommended. For the *STOCK* CountDown camera. 
 
 ## Fasteners 
 | QTY | Item  |  Notes & Link | Purpose |
