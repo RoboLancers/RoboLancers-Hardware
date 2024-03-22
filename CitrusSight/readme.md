@@ -10,9 +10,8 @@
  - OV9281 sensor with 120FPS capture at 1280x800
  - FOV of 70°
  - Base cost of ~$200
- - Integrate with Photon Vision
  - Competition tested reliability 
- - Made entirely of FDM 3d printed and COTs parts
+ - Entirely FDM 3d printed and COTs parts
 
 # With easily adaptable features including:
 
