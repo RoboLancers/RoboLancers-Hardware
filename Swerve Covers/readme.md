@@ -1,6 +1,6 @@
 # MK4i Swerve Covers
 
-![SwerveCover_V1_3.22.jpg](https://github.com/danielw0988/RoboLancers-Hardware/blob/main/Swerve%20Covers/Images/SwerveCover_V1_3.22.jpg?raw=true)
+![image](https://github.com/danielw0988/RoboLancers-Hardware/assets/121208950/354b38c6-ee47-46be-a2db-305a3a607ce4)
 
 # Swerve pod cover featuring:
 
