@@ -18,7 +18,7 @@ All quanties are minimum so more of each is recommended. For the *STOCK* CountDo
 ## Cables 
 | QTY | Item  |  Notes & Link | Purpose |
 |--|--|--|--|
-| <1 ft |22AWG Silicon Wire | [4GB](https://www.amazon.com/Silicone-Electrical-Conductor-Parallel-Flexible/dp/B07K9R9LBV/ref=pd_lpo_sccl_2/134-6228880-3387068?pd_rd_w=ioRta&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=RS3YGP936PCKRDKRFBVB&pd_rd_wg=S4qA4&pd_rd_r=389ee43e-bbd5-430a-90a4-659145ed9d8b&pd_rd_i=B07K9R9LBV&psc=1) |All wiring|
+| <1 ft |18-22AWG Silicon Wire | [4GB](https://www.amazon.com/Silicone-Electrical-Conductor-Parallel-Flexible/dp/B07K9R9LBV/ref=pd_lpo_sccl_2/134-6228880-3387068?pd_rd_w=ioRta&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=RS3YGP936PCKRDKRFBVB&pd_rd_wg=S4qA4&pd_rd_r=389ee43e-bbd5-430a-90a4-659145ed9d8b&pd_rd_i=B07K9R9LBV&psc=1) |All wiring|
 |1| Right angle USB C | [USB 2.0 or 3.0](https://www.amazon.com/UGREEN-Charger-Compatible-Samsung-Nintendo/dp/B07PFHB3R4/ref=sr_1_4?keywords=usb%2Bc%2Bto%2Busb%2Ba%2Bright%2Bangle&qid=1707699098&s=electronics&sr=1-4&th=1) |Power for Orange Pi from VRM|
 
 
