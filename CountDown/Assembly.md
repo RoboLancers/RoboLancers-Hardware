@@ -1,6 +1,7 @@
-Assembly
+# Assembly
 
-There are two methods to wire the vision system. One of which is to solder all of the positive and negative 5v components together, while the other is to power the Orange Pi through an external USB C cable. \
+There are two methods to wire the vision system. One of which is to solder all of the positive and negative 5v components together, while the other is to power the Orange Pi through an external USB C cable.  <br>
+<br>  
 
 ## USB C
 
