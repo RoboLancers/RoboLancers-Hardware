@@ -8,8 +8,8 @@ There are two methods to wire the vision system. One of which is to solder all o
 These instructions are for assembling and wiring the CountDown Vision system using a USB C cable for powering the Orange pi. 
 | Notes | Image |
 |--|--|
-|4x m3 Heatset Insert|Mounting pic|
-|4x m3 Heatset Insert|orange pi holding| 
+|4x m3 Heatset Insert||
+|4x m3 Heatset Insert|| 
 |4x m2.5 Heatset Insert|Camera|
 |3x m2.5 Heatset insert|fan|
 |Solder the VRM's GND & VIN to 18AWG wires||
@@ -34,9 +34,9 @@ Camera is functional (prog) ||
 ## Soldered
 
 These instructions are for assembling and wiring the CountDown Vision system using a soldered internal connection for powering all 5v components. 
-| Notes | Image |
+| Notes |  |
 |--|--|
-|4x m3 Heatset Insert|Mounting pic|
+|4x m3 Heatset Insert||
 |4x m3 Heatset Insert|orange pi holding| 
 |4x m2.5 Heatset Insert|Camera|
 |3x m2.5 Heatset insert|fan|
