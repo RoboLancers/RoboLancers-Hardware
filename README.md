@@ -12,6 +12,6 @@ In the offseason, we've seen that our swerve pod gears were shredded from the al
 
 [Click here to view documentation](https://github.com/RoboLancers/RoboLancers-Hardware/tree/main/Swerve%20Covers)
 
-##  **COMING SOON** *Standardized Din Rail Mounting*
-In previous years, we've had problems with mounting electronics to our belly pan, with each componet swap taking countless tools. Our solution is a easily removable and standardized din mount system, where components can be cliped on and off easily. 
+## Standardized Din Rail Mounting
+In previous years, we've had problems with mounting electronics, with each componet swap taking countless tools. Our solution is a easily removable and standardized din mount system, where components can be cliped on and off easily. 
 
