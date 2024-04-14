@@ -2,10 +2,10 @@
 
 This offseason, we've started going all out with custom hardware. Centered around issues our team has had in previous years, we've come up with our own solutions.
 
-## CountDown
-CountDown is a cheaper alternative to LimeLight made for April Tag detection powered with the Orange Pi 5 and ArduCam 9821, with 2 extra camera ports.
+## Helios
+Helios is a cheaper alternative to LimeLight made for April Tag detection powered with the Orange Pi 5 and ArduCam 9821, with 2 extra camera ports.
 
-[Click here to view documentation](https://github.com/danielw0988/RoboLancers-Hardware/tree/main/CountDown)
+[Click here to view documentation](https://github.com/danielw0988/RoboLancers-Hardware/tree/main/Helios)
 
 ## Swerve Cover
 In the offseason, we've seen that our swerve pod gears were shredded from the aluminum shavings covering the field. This swerve cover protects our swerve gears from this, in addition to housing the electronics needed more conviently. 
