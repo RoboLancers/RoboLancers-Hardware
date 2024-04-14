@@ -2,7 +2,7 @@
 ![image](https://github.com/danielw0988/RoboLancers-Hardware/assets/121208950/4986f92d-5b55-4de6-8f01-2310c4bc7197)
 
 
-# Helios is an open source vision system that's serves as a open source vision solution with a base cost of under $200.  The stock version features: 
+# Helios is an open source vision system that's serves as a vision solution with a base cost of under $200.  The stock version features: 
 
  - Additional ports and computational power for
  - 2 USB Cameras
