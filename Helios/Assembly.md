@@ -5,7 +5,7 @@ There are two methods to wire the vision system. One of which is to solder all o
 
 ## USB C
 
-These instructions are for assembling and wiring the CountDown Vision system using a USB C cable for powering the Orange pi. 
+These instructions are for assembling and wiring the Helios Vision system using a USB C cable for powering the Orange pi. 
 | Notes | Image |
 |--|--|
 |4x m3 Heatset Insert||
@@ -33,7 +33,7 @@ Camera is functional (prog) ||
 
 ## Soldered
 
-These instructions are for assembling and wiring the CountDown Vision system using a soldered internal connection for powering all 5v components. 
+These instructions are for assembling and wiring the Helios Vision system using a soldered internal connection for powering all 5v components. 
 | Notes |  |
 |--|--|
 |4x m3 Heatset Insert||
